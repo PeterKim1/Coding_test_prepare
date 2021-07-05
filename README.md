@@ -25,3 +25,20 @@ https://fastcampus.co.kr/dev_online_algo
 
 
 ![image](https://user-images.githubusercontent.com/57930520/121281802-79cd6e80-c913-11eb-8310-cfced1661f29.png)
+
+
+
+
+
+## 자료구조 정리
+
+해당 수업에서 다룬 자료구조를 정리하였습니다.
+
+1. [배열 (Array)](https://github.com/PeterKim1/Coding_test_prepare/tree/master/Data_Structures/1.%20Array) <br/>
+2. [큐 (Queue)](https://github.com/PeterKim1/Coding_test_prepare/tree/master/Data_Structures/2.%20Queue) <br/>
+3. [스택 (Stack)](https://github.com/PeterKim1/Coding_test_prepare/tree/master/Data_Structures/3.%20Stack) <br/>
+4. [링크드 리스트 (Linked List)](https://github.com/PeterKim1/Coding_test_prepare/tree/master/Data_Structures/4.%20Linked%20List) <br/>
+5. [해쉬 테이블 (Hash Table)](https://github.com/PeterKim1/Coding_test_prepare/tree/master/Data_Structures/5.%20Hash%20Table) <br/>
+6. [트리 (Tree)](https://github.com/PeterKim1/Coding_test_prepare/tree/master/Data_Structures/6.%20Tree) <br/>
+7. [힙 (Heap)](https://github.com/PeterKim1/Coding_test_prepare/tree/master/Data_Structures/7.%20Heap)
+
