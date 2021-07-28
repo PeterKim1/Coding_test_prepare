@@ -54,3 +54,13 @@ Baekjoon judge에 있는 문제풀이를 기록하는 README 입니다.
 
 10989번(수 정렬하기 3) - 문제 난이도(하), 정렬, [문제](https://www.acmicpc.net/problem/10989)
 
+
+
+* 2021년 7월 28일
+
+2747번(피보나치 수) - 문제 난이도(하), 재귀 함수, [문제](https://www.acmicpc.net/problem/2747)
+
+1074번(Z) - 문제 난이도(중), 재귀 함수, [문제](https://www.acmicpc.net/problem/1074)
+
+
+
