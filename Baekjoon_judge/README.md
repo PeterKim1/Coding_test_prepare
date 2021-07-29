@@ -70,5 +70,9 @@ Baekjoon judge에 있는 문제풀이를 기록하는 README 입니다.
 
 11004번(K 번째 수) - 문제 난이도(중), 정렬, [문제](https://www.acmicpc.net/problem/11004)
 
+1543번(문서 검색) - 문제 난이도(하), 탐색, [문제](https://www.acmicpc.net/problem/1543)
+
+1568번(새) - 문제 난이도(하), 탐색, [문제](https://www.acmicpc.net/problem/1568)
+
 <br/>
 
