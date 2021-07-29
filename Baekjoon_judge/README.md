@@ -8,7 +8,7 @@ Baekjoon judge에 있는 문제풀이를 기록하는 README 입니다.
 
 
 
-
+<br/>
 
 * 2021년 7월 15일
 
@@ -20,7 +20,7 @@ Baekjoon judge에 있는 문제풀이를 기록하는 README 입니다.
 
 1966번(프린터 큐) - 문제 난이도(하), 큐, 구현, 그리디, [문제](https://www.acmicpc.net/problem/1966)
 
-
+<br/>
 
 * 2021년 7월 25일
 
@@ -28,9 +28,7 @@ Baekjoon judge에 있는 문제풀이를 기록하는 README 입니다.
 
 5397번(키로거) - 문제 난이도(중), 스택, 구현, 그리디, [문제](https://www.acmicpc.net/problem/5397)
 
-
-
-
+<br/>
 
 * 2021년 7월 26일
 
@@ -38,7 +36,7 @@ Baekjoon judge에 있는 문제풀이를 기록하는 README 입니다.
 
 4195번(친구 네트워크) - 문제 난이도(중), 해시, 집합, 그래프, [문제](https://www.acmicpc.net/problem/4195)
 
-
+<br/>
 
 
 
@@ -54,7 +52,7 @@ Baekjoon judge에 있는 문제풀이를 기록하는 README 입니다.
 
 10989번(수 정렬하기 3) - 문제 난이도(하), 정렬, [문제](https://www.acmicpc.net/problem/10989)
 
-
+<br/>
 
 * 2021년 7월 28일
 
@@ -62,5 +60,15 @@ Baekjoon judge에 있는 문제풀이를 기록하는 README 입니다.
 
 1074번(Z) - 문제 난이도(중), 재귀 함수, [문제](https://www.acmicpc.net/problem/1074)
 
+<br/>
 
+* 2021년 7월 29일
+
+7490번(0 만들기) - 문제 난이도(중), 재귀 함수, [문제](https://www.acmicpc.net/problem/7490)
+
+2751번(수 정렬하기 2) - 문제 난이도(하), 정렬, [문제](https://www.acmicpc.net/problem/2751)
+
+11004번(K 번째 수) - 문제 난이도(중), 정렬, [문제](https://www.acmicpc.net/problem/11004)
+
+<br/>
 
