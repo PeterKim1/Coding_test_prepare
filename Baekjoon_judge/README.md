@@ -76,3 +76,11 @@ Baekjoon judge에 있는 문제풀이를 기록하는 README 입니다.
 
 <br/>
 
+* 2021년 7월 30일
+
+1302번(베스트셀러) - 문제 난이도(하), 탐색, [문제](https://www.acmicpc.net/problem/1302)
+
+1668번(트로피 진열) - 문제 난이도(하), 탐색, [문제](https://www.acmicpc.net/problem/1668)
+
+1236번(성 지키기) - 문제 난이도(하), 탐색, [문제](https://www.acmicpc.net/problem/1236)
+
