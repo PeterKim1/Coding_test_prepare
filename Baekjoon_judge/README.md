@@ -92,4 +92,9 @@ Baekjoon judge에 있는 문제풀이를 기록하는 README 입니다.
 
 1939번(중량제한) - 문제 난이도(중상), 이진 탐색, [문제](https://www.acmicpc.net/problem/1939) :heavy_check_mark:
 
-<br/>
+1991번(트리 순회) - 문제 난이도(하), 트리, 구현, [문제](https://www.acmicpc.net/problem/1991) :heavy_check_mark:
+
+2250번(트리의 높이와 너비) - 문제 난이도(중), 트리, 구현, [문제](https://www.acmicpc.net/problem/2250) :heavy_check_mark:
+
+ <br/>
+
