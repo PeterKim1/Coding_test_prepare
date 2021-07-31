@@ -84,3 +84,12 @@ Baekjoon judge에 있는 문제풀이를 기록하는 README 입니다.
 
 1236번(성 지키기) - 문제 난이도(하), 탐색, [문제](https://www.acmicpc.net/problem/1236)
 
+<br/>
+
+* 2021년 7월 31일
+
+2110번(공유기 설치) - 문제 난이도(중), 이진 탐색, [문제](https://www.acmicpc.net/problem/2110) :heavy_check_mark:
+
+1939번(중량제한) - 문제 난이도(중상), 이진 탐색, [문제](https://www.acmicpc.net/problem/1939) :heavy_check_mark:
+
+<br/>
