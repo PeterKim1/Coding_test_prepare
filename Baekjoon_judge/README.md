@@ -98,3 +98,13 @@ Baekjoon judge에 있는 문제풀이를 기록하는 README 입니다.
 
  <br/>
 
+* 2021년 8월 1일
+
+1927번(최소 힙) - 문제 난이도(하), 힙, 자료구조, [문제](https://www.acmicpc.net/problem/1927)
+
+1715번(카드 정렬하기) - 문제 난이도(하), 힙, 자료구조, 그리디, [문제](https://www.acmicpc.net/problem/1715)
+
+1766번(문제집) - 문제 난이도(중), 힙, 위상 정렬, [문제](https://www.acmicpc.net/problem/1766) :heavy_check_mark:
+
+<br/>
+
