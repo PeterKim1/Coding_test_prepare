@@ -116,4 +116,9 @@ Baekjoon judge에 있는 문제풀이를 기록하는 README 입니다.
 
 11053번(가장 긴 증가하는 부분 수열) - 문제 난이도(하), 동적 프로그래밍, **LIS**, [문제](https://www.acmicpc.net/problem/11053) :heavy_check_mark:
 
+9251번(LCS) - 문제 난이도(하), 동적 프로그래밍, **LCS**, [문제](https://www.acmicpc.net/problem/9251) :heavy_check_mark:
+
+1495번(기타리스트) - 문제 난이도(중), 동적 프로그래밍, [문제](https://www.acmicpc.net/problem/1495) :heavy_check_mark:
+
 <br/>
+
