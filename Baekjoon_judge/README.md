@@ -104,7 +104,16 @@ Baekjoon judge에 있는 문제풀이를 기록하는 README 입니다.
 
 1715번(카드 정렬하기) - 문제 난이도(하), 힙, 자료구조, 그리디, [문제](https://www.acmicpc.net/problem/1715)
 
-1766번(문제집) - 문제 난이도(중), 힙, 위상 정렬, [문제](https://www.acmicpc.net/problem/1766) :heavy_check_mark:
+1766번(문제집) - 문제 난이도(중), 힙, **위상 정렬**, [문제](https://www.acmicpc.net/problem/1766) :heavy_check_mark:
 
 <br/>
 
+* 2021년 8월 2일
+
+1904번(01타일) - 문제 난이도(하), 동적 프로그래밍, [문제](https://www.acmicpc.net/problem/1904)
+
+12865번(평범한 배낭) - 문제 난이도(하), 동적 프로그래밍, [문제](https://www.acmicpc.net/problem/12865) :heavy_check_mark:
+
+11053번(가장 긴 증가하는 부분 수열) - 문제 난이도(하), 동적 프로그래밍, **LIS**, [문제](https://www.acmicpc.net/problem/11053) :heavy_check_mark:
+
+<br/>
