@@ -122,3 +122,7 @@ Baekjoon judge에 있는 문제풀이를 기록하는 README 입니다.
 
 <br/>
 
+* 2021년 8월 3일
+
+2655번(가장 높은 탑 쌓기) - 문제 난이도(상), 동적 프로그래밍 LIS, [문제](https://www.acmicpc.net/problem/2655) :heavy_check_mark:
+
