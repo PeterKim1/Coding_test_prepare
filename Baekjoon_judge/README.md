@@ -126,3 +126,15 @@ Baekjoon judge에 있는 문제풀이를 기록하는 README 입니다.
 
 2655번(가장 높은 탑 쌓기) - 문제 난이도(상), 동적 프로그래밍 LIS, [문제](https://www.acmicpc.net/problem/2655) :heavy_check_mark:
 
+<br/>
+
+* 2021년 8월 4일
+
+1260번(DFS와 BFS) - 문제 난이도(하), DFS, BFS, [문제](https://www.acmicpc.net/problem/1260)
+
+1697번(숨바꼭질) - 문제 난이도(하), BFS, [문제](https://www.acmicpc.net/problem/1697) :heavy_check_mark:
+
+2606번(바이러스) - 문제 난이도(하), DFS, BFS, [문제](https://www.acmicpc.net/problem/2606)
+
+1012번(유기농 배추) - 문제 난이도(하), DFS, BFS, [문제](https://www.acmicpc.net/problem/1012) :heavy_check_mark:
+
