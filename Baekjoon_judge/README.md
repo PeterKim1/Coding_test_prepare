@@ -138,3 +138,11 @@ Baekjoon judge에 있는 문제풀이를 기록하는 README 입니다.
 
 1012번(유기농 배추) - 문제 난이도(하), DFS, BFS, [문제](https://www.acmicpc.net/problem/1012) :heavy_check_mark:
 
+<br/>
+
+* 2021년 8월 9일
+
+1325번(효율적인 해킹) - 문제 난이도(하), DFS, BFS, [문제](https://www.acmicpc.net/problem/1325) :heavy_check_mark:
+
+10282번(해킹) - 문제 난이도(중), 다익스트라 최단 경로, [문제](https://www.acmicpc.net/problem/10282) :heavy_check_mark:
+
