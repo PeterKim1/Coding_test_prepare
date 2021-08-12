@@ -158,5 +158,13 @@ Baekjoon judge에 있는 문제풀이를 기록하는 README 입니다.
 
 5585번(거스름돈) - 문제 난이도(하), 그리디, [문제](https://www.acmicpc.net/problem/5585)
 
+<br/>
 
+* 2021년 8월 12일
+
+1439번(뒤집기) - 문제 난이도(하), 그리디, [문제](https://www.acmicpc.net/problem/1439)
+
+2012번(등수 매기기) - 문제 난이도(하), 그리디, [문제](https://www.acmicpc.net/problem/2012)
+
+<br/>
 
