@@ -168,3 +168,17 @@ Baekjoon judge에 있는 문제풀이를 기록하는 README 입니다.
 
 <br/>
 
+* 2021년 9월 5일
+
+1092번(배) - 문제 난이도(중), 그리디, [문제](https://www.acmicpc.net/problem/1092)
+
+2212번(센서) - 문제 난이도(하), 그리디, [문제](https://www.acmicpc.net/problem/2212) :heavy_check_mark:
+
+<br/>
+
+* 2021년 9월 6일
+
+1461번(도서관) - 문제 난이도(중), 그리디, [문제](https://www.acmicpc.net/problem/1461)
+
+1781번(컵라면) - 문제 난이도(중), 그리디, [문제](https://www.acmicpc.net/problem/1781) :heavy_check_mark:
+
